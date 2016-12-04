@@ -1,0 +1,22 @@
+h1{
+	font-family: Arial, Helvetica;
+	color: #444;
+}
+
+.showingData{
+	display: none;
+}
+
+.pelicula-title{
+	cursor: pointer;
+}
+
+.pelicula-title:hover{
+	text-decoration: underline;
+}
+
+.clicked{
+  font-size: 30px;
+  color: green;
+  font-family: Arial;
+}
